@@ -2,8 +2,8 @@
 ## I prefer to go by silver surfer
 ### I hardly believe that one can clone my repository and work haha 
 - 👀 I’m vastly interested in ... Engineering, science and mathematics 🧲
-- 🌱 I’m currently learning ... C++, julia, python, web development, docker, kubernetes and whatever i find will learn 🎉🎉
-- 💞️ No I'm not that great in colloborating SORRY
+- 🌱 I’m currently learning ... C++, python, docker, kubernetes and whatever i find will learn 🎉🎉
+- 💞️ I want to colloborate But I don't know where I fit 
 - 📫 How to reach me ... No can do
 - 🏫🏫🎓 A chemical Engineer who loves computer science xD
 - A gamer
